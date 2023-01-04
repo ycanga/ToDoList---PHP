@@ -34,7 +34,7 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 - <h3>Drag and drop the "todolist.sql" file given in the project files to the database you created.</h3>
 - <h3>Navigate to the project's location from your localhost page and it's ready to go.</h3>
 
-<b style="color: red;"> <h1> Note: Entered user passwords and notes are encrypted while saving to the database and are only decrypted when the notes are printed on the screen. </h1> </b>
+<b> <h2 style="color: red;"> Note: Entered user passwords and notes are encrypted while saving to the database and are only decrypted when the notes are printed on the screen. </h2> </b>
 
 <b> <h1>An example of this project <a href="https://project.4lphasoftware.com/todolist">From here</a> you can review. </h1></b>
 
