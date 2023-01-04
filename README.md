@@ -28,3 +28,4 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 
 <b> <h2>An example of this project <a href="https://project.4lphasoftware.com/todolist">From here</a> you can review. </h2></b>
 
+<h1>For the installation of the project;</h1>
