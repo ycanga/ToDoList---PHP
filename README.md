@@ -26,5 +26,5 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 
 <img src="assets/img/todolist/5.png" />
 
-<b> An example of this project <a href="https://project.4lphasoftware.com/todolist">From here</a> you can review. </b>
+<center><b> An example of this project <a href="https://project.4lphasoftware.com/todolist">From here</a> you can review. </b></center>
 
