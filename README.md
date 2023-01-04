@@ -29,3 +29,9 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 <b> <h2>An example of this project <a href="https://project.4lphasoftware.com/todolist">From here</a> you can review. </h2></b>
 
 <h1>For the installation of the project;</h1>
+
+-<h3>Put the given files in the localhost folder.</h3>
+-<h3>Go to phpmyadmin page.</h3>
+-<h3>Create a new database named "todolist" here.</h3>
+-<h3>Drag and drop the "todolist.sql" file given in the project files to the database you created.</h3>
+-<h3>Navigate to the project's location from your localhost page and it's ready to go.</h3>
