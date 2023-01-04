@@ -25,3 +25,5 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 <img src="assets/img/todolist/4.png" />
 
 <img src="assets/img/todolist/5.png" />
+
+<b> Bu projenin bir örneğini <a href="https://project.4lphasoftware.com/todolist">Buradan</a> inceleyebilirsiniz. </b>
