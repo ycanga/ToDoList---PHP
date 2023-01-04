@@ -23,3 +23,5 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 - The red button in the note is designed to delete that note. (Be careful, this action cannot be undone.)
 
 <img src="assets/img/todolist/4.png" />
+
+<img src="assets/img/todolist/5.png" />
