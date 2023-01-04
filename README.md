@@ -36,6 +36,10 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 
 <b> <h2 style="color: red;"> Note: Entered user passwords and notes are encrypted while saving to the database and are only decrypted when the notes are printed on the screen. </h2> </b>
 
+<img src="assets/img/todolist/6.png" />
+<hr>
+<img src="assets/img/todolist/7.png" />
+
 <b> <h1>An example of this project <a href="https://project.4lphasoftware.com/todolist">From here</a> you can review. </h1></b>
 
 
