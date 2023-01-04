@@ -9,3 +9,13 @@ In this project, I wanted to make a project where you can take notes using MYSQL
 --> If you do not have an account, you can create a new account instantly.
 
 <img src="assets/img/todolist/2.png" />
+
+--> After logging in, there is a field where you can enter your note and there are 3 buttons available to you.
+
+- Logout: allows you to log out securely.
+- Add note: It is used to save the note you have entered in the note field.
+- Delete All: this button deletes all your saved notes. (Be careful, this action cannot be undone.)
+- The green button in the note is designed for you to use when you complete your note.
+- The red button in the note is designed to delete that note. (Be careful, this action cannot be undone.)
+
+<img src="assets/img/todolist/3.png" />
